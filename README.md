@@ -1,10 +1,8 @@
 # Hi my name is Fernando!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ferbarbosa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ferbarbosa&show_icons=true&card_width=300&layout=compact&theme=tokyonight&hide_border=true)
 
-<div>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ferbarbosa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <img  height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferbarbosa&show_icons=true&card_width=170&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
 
 ##
 
