@@ -1,11 +1,9 @@
-### Hi my name is Fernando!
-
-##
+# Hi my name is Fernando!
 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ferbarbosa&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferbarbosa&show_icons=true&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ferbarbosa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferbarbosa&show_icons=true&card_width=190&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ##
