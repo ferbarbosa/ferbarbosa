@@ -6,6 +6,8 @@
 
 <img align="right" src="https://i.pinimg.com/originals/96/25/1e/96251e36ce717d55f4c61a081ab9180a.gif" />
 
+- 👨‍🎓 I'm graduated in **Analysis and Systems Development.**
+
 - 🌱 I’m currently learning **React, React Native and Python.**
 
 - 💬 I love to talk about **JavaScript and anything related to artificial inteligence.**
