@@ -4,7 +4,7 @@
 
 ##
 
-<img align="right" src="https://i.pinimg.com/originals/96/25/1e/96251e36ce717d55f4c61a081ab9180a.gif" />
+<img align="right" src="https://i.pinimg.com/originals/96/25/1e/96251e36ce717d55f4c61a081ab9180a.gif" width="350" height="250" />
 
 - 👨‍🎓 I'm graduated in **Analysis and Systems Development.**
 
