@@ -8,7 +8,7 @@
 
 - 👨‍🎓 I'm graduated in **Analysis and Systems Development.**
 
-- 🌱 I’m currently learning **React, React Native and Python.**
+- 🌱 I’m currently Working **React, React Native and Ionic.**
 
 - 💬 I love to talk about **JavaScript and anything related to artificial inteligence.**
 
